@@ -4,7 +4,7 @@ All the resources in this repo are a reference for the IBM/SDI webinar on Jan 26
 
 #Lab prerequisites: 
 
-Sign-up or sign in for IBM Cloud through this link: https://ibm.biz/BdfEP6 
+Sign-up or sign in for IBM Cloud through this link: https://ibm.biz/BdfEP6 
 
 Upgrade your node.js to the latest version >= 12.0 
 
